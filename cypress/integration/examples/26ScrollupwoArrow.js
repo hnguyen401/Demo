@@ -1,9 +1,9 @@
 /// <reference types="cypress" />
-describe('Test25', function()
+describe('Test26', function()
 
 {
 
-it('Test25', function()
+it('Test26', function()
 
 {
 //Navigate to url 'http://automationexercise.com'
